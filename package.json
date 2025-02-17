@@ -10,16 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arpitBhalla/MicrosoftEngageMentorship2021.git"
+    "url": "git+https://github.com/29deeoanshutyagi/trio-calls"
   },
-  "author": "Arpit Bhalla <https://github.com/arpitBhalla>",
+  "author": "Deepanshu Tyagi <https://github.com/29deepanshutyagi/trio-calls>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/arpitBhalla/MicrosoftEngageMentorship2021/issues"
+    "url": "https://github.com/29deepanshutyagi/trio-calls/issues "
   },
-  "homepage": "https://github.com/arpitBhalla/MicrosoftEngageMentorship2021#readme",
-  "packageManager": "yarn@1.22.19+sha512.ff4579ab459bb25aa7c0ff75b62acebe576f6084b36aa842971cf250a5d8c6cd3bc9420b22ce63c7f93a0857bc6ef29291db39c3e7a23aab5adfd5a4dd6c5d71",
-  "dependencies": {
-    "dotenv": "^16.4.7"
-  }
+  "homepage": "https://github.com/29deepanshutyagi/trio-calls#readme",
+  "packageManager": "yarn@1.22.19+sha512.ff4579ab459bb25aa7c0ff75b62acebe576f6084b36aa842971cf250a5d8c6cd3bc9420b22ce63c7f93a0857bc6ef29291db39c3e7a23aab5adfd5a4dd6c5d71"
 }
