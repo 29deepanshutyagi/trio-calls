@@ -1,0 +1,8 @@
+.vercel
+build
+cypress/screenshots/
+cypress/videos/
+# cypress
+cypress/screenshots/
+cypress/videos/
+.env

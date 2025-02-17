@@ -1,0 +1,21 @@
+{
+  "name": "@arpitbhalla/trio-calls",
+  "version": "0.0.0",
+  "description": "Secret Components for Trio Calls",
+  "author": "Arpit Bhalla <arpitbhalla@zoho.com>",
+  "license": "MIT",
+  "directories": {
+    "dist": "dist",
+    "src": "src",
+    "test": "__tests__"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "restricted"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "main": "index.js",
+  "gitHead": "2d4ed6fa923a342ef9a9135d91b75a0d9a1b68bb"
+}
