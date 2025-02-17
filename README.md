@@ -82,7 +82,7 @@ $ npm run test:e2e
 
 This project is under license from GPL v3. For more details, see the [LICENSE](LICENSE) file. You need to seek permission from original author before using it for commercial purpose.
 
-Made with :heart: by <a href="https://github.com/arpitBhalla" target="_blank">Arpit Bhalla</a>
+Made with :heart: by <a href="https://github.com/29deepanshutyagi target="_blank">Arpit Bhalla</a>
 
 &#xa0;
 
